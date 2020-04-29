@@ -1,6 +1,5 @@
 title: Unflattening: A data science blog
-description: >
-  Data science-related blog
+description: Data science-related blog
 permalink: ':title/'
 baseurl: ""
 url: ""
