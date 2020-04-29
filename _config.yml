@@ -9,17 +9,17 @@ site-twitter:
 author: Gabriel Fritz Sluzala
 author-img: gabriel-fritz-sluzala.png
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: 
-social-facebook: 
+# social-twitter: 
+# social-facebook: 
 social-github: GabrielFritz
 social-linkedin: gabriel-fritz-sluzala
 social-email: gabrielfritzsluzala@gmail.com
 
 # Disqus
-discus-identifier: 
+# discus-identifier: 
 
 # Tracker
-analytics: 
+# analytics: 
 
 # Build Settings
 markdown: kramdown
